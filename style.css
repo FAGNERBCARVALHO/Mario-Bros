@@ -175,6 +175,7 @@ textarea {
         display: flex;
         align-items: center;
         justify-content: center;
+        
     }
     
 
@@ -183,6 +184,8 @@ textarea {
     }
     
     .header a {
-        font-size: 18px;
+        font-size: 16px;
+        cursor: pointer;
     }
+    
 }
